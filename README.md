@@ -4,7 +4,7 @@
 
 The Ultimate Code Beautification and Visualization Tool. Designed for developers, educators, and content creators, CodeSnap offers a seamless way to transform code snippets into beautifully styled PNG images. We understand that the visual presentation of code is just as important as its functionality, which is why we offer a variety of styling options to cater to individual preferences. Whether you're crafting detailed blog posts, creating tutorials, or sharing your work on social media, CodeSnap ensures your code captures attention at first glance. Try CodeSnap and take your code beautification to the next level.
 
-![my-image-name (3)](https://github.com/user-attachments/assets/d38344ae-d41f-4da5-a7be-04cbed08f4ef)
+![code-snap](https://github.com/user-attachments/assets/2f9fb77a-7017-41bd-b4ab-4de094366246)
 
 **TODO:**
 
