@@ -1,8 +1,8 @@
-# Welcome to CodeSnap
+# Welcome to CodeChic
 
-[Online](https://ccodesnap.vercel.app/)
+[Online](https://codechic.vercel.app/)
 
-The Ultimate Code Beautification and Visualization Tool. Designed for developers, educators, and content creators, CodeSnap offers a seamless way to transform code snippets into beautifully styled PNG images. We understand that the visual presentation of code is just as important as its functionality, which is why we offer a variety of styling options to cater to individual preferences. Whether you're crafting detailed blog posts, creating tutorials, or sharing your work on social media, CodeSnap ensures your code captures attention at first glance. Try CodeSnap and take your code beautification to the next level.
+The Ultimate Code Beautification and Visualization Tool. Designed for developers, educators, and content creators, CodeChic offers a seamless way to transform code snippets into beautifully styled PNG images. We understand that the visual presentation of code is just as important as its functionality, which is why we offer a variety of styling options to cater to individual preferences. Whether you're crafting detailed blog posts, creating tutorials, or sharing your work on social media, CodeChic ensures your code captures attention at first glance. Try CodeChic and take your code beautification to the next level.
 
 ![code-snap](https://github.com/user-attachments/assets/2f9fb77a-7017-41bd-b4ab-4de094366246)
 
@@ -37,4 +37,4 @@ The Ultimate Code Beautification and Visualization Tool. Designed for developers
 - [ ] Code style editor - Similar to https://uiwjs.github.io/react-codemirror/#/
 - [ ] Image hosting service - Generate direct links, allowing users to display images directly with links, eliminating the need for screenshots
 
-If you have any questions or feedback, to reply in the issues section. I hope you enjoy CodeSnap!
+If you have any questions or feedback, to reply in the issues section. I hope you enjoy CodeChic!
